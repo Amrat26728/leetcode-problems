@@ -34,6 +34,6 @@ To contribute:
 If you have any questions, feel free to reach out:
 
 - [LinkedIn](https://www.linkedin.com/)
-- [Email] (amratamrat2000@gmail.com)
+- [Email](amratamrat2000@gmail.com)
 
 Happy Coding! ✨
