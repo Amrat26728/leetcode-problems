@@ -33,7 +33,7 @@ To contribute:
 
 If you have any questions, feel free to reach out:
 
-- [LinkedIn](https://www.linkedin.com/)
+- [LinkedIn](https://www.linkedin.com/in/amrat-merya/)
 - [Email](amratamrat2000@gmail.com)
 
 Happy Coding! ✨
